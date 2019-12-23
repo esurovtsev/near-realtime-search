@@ -1,0 +1,16 @@
+- run docker-compose with solr & es and verify that both are working
+create cores
+config files
+explanation for ES
+
+curl 'http://localhost:9200/?pretty'
+curl 'http://localhost:8983/solr/admin/info/system'
+
+
+
+- create framework for working with documents
+domain object
+restTemplate
+
+
+

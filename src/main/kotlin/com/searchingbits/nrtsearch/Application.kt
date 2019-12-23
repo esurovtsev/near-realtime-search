@@ -1,4 +1,4 @@
-package com.searchingbits.nearrealtimesearch
+package com.searchingbits.nrtsearch
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
