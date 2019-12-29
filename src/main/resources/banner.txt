@@ -1,0 +1,4 @@
+
+${application.title}
+==========================================
+type `help` for showing available options or `exit` to finish the demo.
